@@ -21,22 +21,9 @@ Welcome to the Firebase Chat App repository! This app enables real-time chat fun
 ## Service File
 
 - `FCMNotificationService.java`: Integrates Firebase Cloud Messaging for push notifications.
-
-Feel free to explore these files to understand the structure of the app and how different components interact. The app leverages Firebase Authentication, Realtime Database, and Firebase Cloud Messaging to provide seamless chat functionality.
-
-## Getting Started
-
-To use this app:
-
-1. Clone or download the repository.
-2. Set up your Firebase project and update the `google-services.json` file.
-3. Build and run the app on your Android device or emulator.
-
-## Notes
-
-- This repository provides a basic structure for a Firebase-based chat app. You can extend and customize it as per your requirements.
-- Make sure to handle security and privacy aspects when implementing user authentication and chat features.
-
-For more details about Firebase services and Android app development, refer to the official [Firebase Documentation](https://firebase.google.com/docs) and [Android Documentation](https://developer.android.com/docs).
-
-Happy coding!
+![Screenshot_1717832727](https://github.com/TirthHPurohit/Event_App/assets/169768378/76657e4f-4efa-4442-9581-ff4358d0250d)
+![Screenshot_1717832739](https://github.com/TirthHPurohit/Event_App/assets/169768378/30d3f8a8-7aa0-4f1b-b99c-c71d3a77a7d8)
+![Screenshot_20240608_132631](https://github.com/TirthHPurohit/Event_App/assets/169768378/73c9fd2a-8445-46e8-86b1-655974d2f915)
+![Screenshot_20240608_132635](https://github.com/TirthHPurohit/Event_App/assets/169768378/0074b6cb-6a5d-4de9-88b9-5349b94172c9)
+![Screenshot_20240608_132656](https://github.com/TirthHPurohit/Event_App/assets/169768378/65ce7a45-3c6c-4ddc-96cf-8932e64f8b64)
+![Screenshot_20240608_132745](https://github.com/TirthHPurohit/Event_App/assets/169768378/5485c09a-a344-4c16-b0f4-4584cd38c4ef)
