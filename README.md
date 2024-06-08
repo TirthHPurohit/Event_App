@@ -1,26 +1,8 @@
-# Firebase Chat App
-
-Welcome to the Firebase Chat App repository! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
-
-## Activity Files
-
-- `ChatActivity.java`: The main activity for individual chat conversations.
-- `LoginOtpActivity.java`: Handles user authentication using OTP.
-- `LoginPhoneNumberActivity.java`: Manages phone number-based user login.
-- `LoginUsernameActivity.java`: Controls user login using a username.
-- `MainActivity.java`: The app's entry point and primary navigation hub.
-- `SearchUserActivity.java`: Allows users to search for other users to initiate chats.
-- `SplashActivity.java`: Displays a splash screen while the app initializes.
-
-## Fragment Files
-
-- `ChatFragment.java`: Manages chat UI and logic within the chat activity.
-- `ProfileFragment.java`: Handles user profile display and editing.
-- `SearchUserFragment.java`: Displays user search results and options for starting a chat.
-
-## Service File
-
-- `FCMNotificationService.java`: Integrates Firebase Cloud Messaging for push notifications.
+Event App
+!. OTP Verification
+2. Firebase Database used for OTP
+3. Firebase Database used for storing user profile picture 
+4. Profile update feature
 ![Screenshot_1717832727](https://github.com/TirthHPurohit/Event_App/assets/169768378/76657e4f-4efa-4442-9581-ff4358d0250d)
 ![Screenshot_1717832739](https://github.com/TirthHPurohit/Event_App/assets/169768378/30d3f8a8-7aa0-4f1b-b99c-c71d3a77a7d8)
 ![Screenshot_20240608_132631](https://github.com/TirthHPurohit/Event_App/assets/169768378/73c9fd2a-8445-46e8-86b1-655974d2f915)
