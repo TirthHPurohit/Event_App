@@ -1,5 +1,5 @@
 Event App
-!. OTP Verification
+1. OTP Verification
 2. Firebase Database used for OTP
 3. Firebase Database used for storing user profile picture 
 4. Profile update feature
